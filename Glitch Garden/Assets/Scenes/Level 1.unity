@@ -974,7 +974,7 @@ PrefabInstance:
     - target: {fileID: 8626870536175051708, guid: 61e08b4b027cb114b95577e0bbc244d6,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8626870536175051708, guid: 61e08b4b027cb114b95577e0bbc244d6,
         type: 3}
@@ -1108,7 +1108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42918dee8ce63e543bab05420c3f81fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stars: 100
+  stars: 1000
 --- !u!114 &1288244217
 MonoBehaviour:
   m_ObjectHideFlags: 0

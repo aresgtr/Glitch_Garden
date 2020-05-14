@@ -4,14 +4,9 @@ using UnityEngine;
 
 public class Attacker : MonoBehaviour
 {
-    private float currentSpeed = 0f;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [Range(0f, 5f)] private float currentSpeed = 1f;
+    private GameObject currentTarget;
 
-    // Update is called once per frame
     void Update()
     {
         transform.Translate(Vector2.left * currentSpeed * Time.deltaTime);
@@ -20,5 +15,11 @@ public class Attacker : MonoBehaviour
     public void SetMovementSpeed(float speed)
     {
         currentSpeed = speed;
+    }
+
+    public void Attack(GameObject target)
+    {
+        GetComponent<Animator>().SetBool("isAttacking", true);
+        currentTarget = target;
     }
 }
