@@ -17,7 +17,7 @@ public class LivesDisplay : MonoBehaviour
 
     private void UpdateDisplay()
     {
-        livesText.text = lives.ToString();
+        livesText.text = "❤" + lives.ToString();
     }
 
     public void TakeLife()
