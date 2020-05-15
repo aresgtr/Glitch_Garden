@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Gravestone : MonoBehaviour
 {
-    private void OnTriggerStay2D(Collider otherCollider)
+    private void OnTriggerCollider2D(Collider otherCollider)
     {
         Attacker attacker = otherCollider.GetComponent<Attacker>();
 
