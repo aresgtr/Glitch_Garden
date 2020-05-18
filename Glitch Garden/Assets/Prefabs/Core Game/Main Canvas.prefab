@@ -284,7 +284,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2192acba4aa7e246a574a102e6481c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelTime: 10
+  levelTime: 30
 --- !u!1 &1669564867
 GameObject:
   m_ObjectHideFlags: 0
@@ -504,7 +504,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60f63ba54cb90354b92e5f9bbda0bf15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lives: 10
+  lives: 1
   damage: 1
 --- !u!1 &5269147513497170551
 GameObject:
@@ -673,7 +673,7 @@ GameObject:
   - component: {fileID: 5269147514643825425}
   - component: {fileID: 5269147514643825430}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Main Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
