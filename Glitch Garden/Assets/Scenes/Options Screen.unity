@@ -1199,75 +1199,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &528673777
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4331468983135868361, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7368687419646321203, guid: 70836a073f38c6e448137ef87d831b23,
-        type: 3}
-      propertyPath: m_Name
-      value: Music Player
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 70836a073f38c6e448137ef87d831b23, type: 3}
 --- !u!1 &577666495
 GameObject:
   m_ObjectHideFlags: 0
@@ -2682,8 +2613,8 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1078462205}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
-  m_WholeNumbers: 0
+  m_MaxValue: 2
+  m_WholeNumbers: 1
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -2705,6 +2636,11 @@ PrefabInstance:
       propertyPath: volumeSlider
       value: 
       objectReference: {fileID: 1194271211}
+    - target: {fileID: 5064069026770871162, guid: dec252696eff8e64a896bf29457744f6,
+        type: 3}
+      propertyPath: difficultySlider
+      value: 
+      objectReference: {fileID: 2081416193}
     - target: {fileID: 5064069026770871163, guid: dec252696eff8e64a896bf29457744f6,
         type: 3}
       propertyPath: m_LocalPosition.x
