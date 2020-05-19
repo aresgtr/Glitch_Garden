@@ -475,7 +475,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 1
   maxSpawnDelay: 5
-  attackerPrefabArray: []
+  attackerPrefabArray:
+  - {fileID: 8626870536175051710, guid: 61e08b4b027cb114b95577e0bbc244d6, type: 3}
+  - {fileID: 634673349714738638, guid: a4df4f3b4f0c9c84f98cf2f7d28a4cdb, type: 3}
 --- !u!1 &1467416877 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6949796905230066952, guid: e0eb61b155a47ec4cbb9e3f8d866ecd4,
@@ -496,7 +498,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 1
   maxSpawnDelay: 5
-  attackerPrefabArray: []
+  attackerPrefabArray:
+  - {fileID: 634673349714738638, guid: a4df4f3b4f0c9c84f98cf2f7d28a4cdb, type: 3}
+  - {fileID: 8626870536175051710, guid: 61e08b4b027cb114b95577e0bbc244d6, type: 3}
 --- !u!1001 &1514967739
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -692,7 +696,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 1
   maxSpawnDelay: 5
-  attackerPrefabArray: []
+  attackerPrefabArray:
+  - {fileID: 634673349714738638, guid: a4df4f3b4f0c9c84f98cf2f7d28a4cdb, type: 3}
+  - {fileID: 8626870536175051710, guid: 61e08b4b027cb114b95577e0bbc244d6, type: 3}
 --- !u!1 &1787315979 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6949796905230066952, guid: e0eb61b155a47ec4cbb9e3f8d866ecd4,
@@ -713,7 +719,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpawnDelay: 1
   maxSpawnDelay: 5
-  attackerPrefabArray: []
+  attackerPrefabArray:
+  - {fileID: 634673349714738638, guid: a4df4f3b4f0c9c84f98cf2f7d28a4cdb, type: 3}
+  - {fileID: 8626870536175051710, guid: 61e08b4b027cb114b95577e0bbc244d6, type: 3}
 --- !u!1 &2007511314 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6734513011750892513, guid: e20bc39f881d3844c80c09a33211a53f,
