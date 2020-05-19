@@ -8,7 +8,7 @@ public class Shooter : MonoBehaviour
     [SerializeField] private GameObject projectile, gun;
     private AttackerSpawner myLaneSpawner;
     private Animator animator;
-    
+
     private void Start()
     {
         SetLaneSpawner();
@@ -24,7 +24,6 @@ public class Shooter : MonoBehaviour
         }
         else
         {
-            Debug.Log("sit and wait");
             //    Change animation state to idle
             animator.SetBool("isAttacking", false);
         }
@@ -36,7 +35,9 @@ public class Shooter : MonoBehaviour
 
         foreach (AttackerSpawner spawner in spawners)
         {
-            bool IsCloseEnough = (Mathf.Abs(spawner.transform.position.y - transform.position.y) <= Mathf.Epsilon);    //    find its lane's spawner
+            bool IsCloseEnough =
+                (Mathf.Abs(spawner.transform.position.y - transform.position.y) <=
+                 Mathf.Epsilon); //    find its lane's spawner
             if (IsCloseEnough)
             {
                 myLaneSpawner = spawner;
@@ -47,11 +48,10 @@ public class Shooter : MonoBehaviour
     private bool IsAttackerInLane()
     {
         //    if my lane spawner child count less than or equal to 0
-            //    return false
+        //    return false
         if (myLaneSpawner.transform.childCount <= 0)
         {
             return false;
-
         }
         else
         {
