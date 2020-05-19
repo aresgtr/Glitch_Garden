@@ -21,4 +21,9 @@ public class PlayerPrefsController : MonoBehaviour
             Debug.LogError("Master volume is out of range");
         }
     }
+
+    public static float GetMasterVolume()
+    {
+        return PlayerPrefs.GetFloat(MASTER_VOLUME_KEY);
+    }
 }
