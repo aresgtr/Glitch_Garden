@@ -5,8 +5,12 @@ using UnityEngine;
 
 public class Shooter : MonoBehaviour
 {
-    [SerializeField] private GameObject projectile, gun;
+    [SerializeField] private GameObject projectile;
+    [SerializeField] private GameObject[] gun;
+    [SerializeField] private bool isMultiLane = false;
     private AttackerSpawner myLaneSpawner;
+    private AttackerSpawner myUpperLaneSpawner;
+    private AttackerSpawner myLowerLaneSpawner;
     private Animator animator;
     private GameObject projectileParent;
     private const string PROJECTILE_PARENT_NAME = "Projectiles";
@@ -44,21 +48,51 @@ public class Shooter : MonoBehaviour
     private void SetLaneSpawner()
     {
         AttackerSpawner[] spawners = FindObjectsOfType<AttackerSpawner>();
-
+        
         foreach (AttackerSpawner spawner in spawners)
         {
             bool IsCloseEnough =
                 (Mathf.Abs(spawner.transform.position.y - transform.position.y) <=
                  Mathf.Epsilon); //    find its lane's spawner
+            bool IsUpperCloseEnough =
+                (Mathf.Abs(spawner.transform.position.y - (transform.position.y + 1)) <=
+                 Mathf.Epsilon); //    find its upper lane's spawner
+            bool IsLowerCloseEnough =
+                (Mathf.Abs(spawner.transform.position.y - (transform.position.y - 1)) <=
+                 Mathf.Epsilon); //    find its lower lane's spawner
+
             if (IsCloseEnough)
             {
                 myLaneSpawner = spawner;
+            }
+
+            else if (IsUpperCloseEnough)
+            {
+                myUpperLaneSpawner = spawner;
+            }
+
+            else if (IsLowerCloseEnough)
+            {
+                myLowerLaneSpawner = spawner;
             }
         }
     }
 
     private bool IsAttackerInLane()
     {
+        if (isMultiLane)
+        {
+            if (myUpperLaneSpawner && myUpperLaneSpawner.transform.childCount > 0)
+            {
+                return true;
+            }
+        
+            if (myLowerLaneSpawner && myLowerLaneSpawner.transform.childCount > 0)
+            {
+                return true;
+            }
+        }
+        
         //    if my lane spawner child count less than or equal to 0
         //    return false
         if (myLaneSpawner.transform.childCount <= 0)
@@ -69,11 +103,19 @@ public class Shooter : MonoBehaviour
         {
             return true;
         }
+        
     }
 
     public void Fire()
     {
-        GameObject newProjectile = Instantiate(projectile, gun.transform.position, transform.rotation) as GameObject;
-        newProjectile.transform.parent = projectileParent.transform;
+        for (int i = 0; i < gun.Length; i++)
+        {
+            GameObject newProjectile =
+                Instantiate(projectile, gun[i].transform.position, transform.rotation) as GameObject;
+            newProjectile.transform.parent = projectileParent.transform;
+        }
+
+        // GameObject newProjectile = Instantiate(projectile, gun.transform.position, transform.rotation) as GameObject;
+        // newProjectile.transform.parent = projectileParent.transform;
     }
 }
