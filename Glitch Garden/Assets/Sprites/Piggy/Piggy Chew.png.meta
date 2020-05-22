@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 71d9ba66e4491e84e9ce5a98a7332665
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2794502084144486775
+    second: npc_piggy__x1_chew_png_1354829433_0
+  - first:
+      213: -4976612658164692954
+    second: npc_piggy__x1_chew_png_1354829433_1
+  - first:
+      213: -6745627758438172544
+    second: npc_piggy__x1_chew_png_1354829433_2
+  - first:
+      213: 1437838082765593261
+    second: npc_piggy__x1_chew_png_1354829433_3
+  - first:
+      213: -9163518185983654870
+    second: npc_piggy__x1_chew_png_1354829433_4
+  - first:
+      213: -640561033083492112
+    second: npc_piggy__x1_chew_png_1354829433_5
+  - first:
+      213: -8016736726417450380
+    second: npc_piggy__x1_chew_png_1354829433_6
+  - first:
+      213: -5518028974782255264
+    second: npc_piggy__x1_chew_png_1354829433_7
+  - first:
+      213: -6862656984014828079
+    second: npc_piggy__x1_chew_png_1354829433_8
+  - first:
+      213: -8164233355150995272
+    second: npc_piggy__x1_chew_png_1354829433_9
+  - first:
+      213: -7645848516909213573
+    second: npc_piggy__x1_chew_png_1354829433_10
+  - first:
+      213: -5637970207200548292
+    second: npc_piggy__x1_chew_png_1354829433_11
+  - first:
+      213: -5915948600503567351
+    second: npc_piggy__x1_chew_png_1354829433_12
+  - first:
+      213: 6089603169616994938
+    second: npc_piggy__x1_chew_png_1354829433_13
+  - first:
+      213: -8498980058144811478
+    second: npc_piggy__x1_chew_png_1354829433_14
+  - first:
+      213: 2617720371132256173
+    second: npc_piggy__x1_chew_png_1354829433_15
+  - first:
+      213: -8299495976298351155
+    second: npc_piggy__x1_chew_png_1354829433_16
+  - first:
+      213: -8536224671288193455
+    second: npc_piggy__x1_chew_png_1354829433_17
+  - first:
+      213: -2038605340037883635
+    second: npc_piggy__x1_chew_png_1354829433_18
+  - first:
+      213: 1968006079976114287
+    second: npc_piggy__x1_chew_png_1354829433_19
+  - first:
+      213: -72694183092716363
+    second: npc_piggy__x1_chew_png_1354829433_20
+  - first:
+      213: 1540619477761525885
+    second: npc_piggy__x1_chew_png_1354829433_21
+  - first:
+      213: 6632910317736599744
+    second: npc_piggy__x1_chew_png_1354829433_22
+  - first:
+      213: 2384473870224276798
+    second: npc_piggy__x1_chew_png_1354829433_23
+  - first:
+      213: 2122860128547208279
+    second: npc_piggy__x1_chew_png_1354829433_24
+  - first:
+      213: -6740867118542341142
+    second: npc_piggy__x1_chew_png_1354829433_25
+  - first:
+      213: 1874539858417508394
+    second: npc_piggy__x1_chew_png_1354829433_26
+  - first:
+      213: -6255036899476918447
+    second: npc_piggy__x1_chew_png_1354829433_27
+  - first:
+      213: -6301099621160658714
+    second: npc_piggy__x1_chew_png_1354829433_28
+  - first:
+      213: -4470214221536270639
+    second: npc_piggy__x1_chew_png_1354829433_29
+  - first:
+      213: -3141102909581329681
+    second: npc_piggy__x1_chew_png_1354829433_30
+  - first:
+      213: 315260882395069651
+    second: npc_piggy__x1_chew_png_1354829433_31
+  - first:
+      213: 8397004380365476152
+    second: npc_piggy__x1_chew_png_1354829433_32
+  - first:
+      213: 1509387070215873840
+    second: npc_piggy__x1_chew_png_1354829433_33
+  - first:
+      213: -1017977053323923593
+    second: npc_piggy__x1_chew_png_1354829433_34
+  - first:
+      213: 5827227674167874537
+    second: npc_piggy__x1_chew_png_1354829433_35
+  - first:
+      213: -9018822316032200928
+    second: npc_piggy__x1_chew_png_1354829433_36
+  - first:
+      213: 1019555932117594334
+    second: npc_piggy__x1_chew_png_1354829433_37
+  - first:
+      213: -8322148921590686282
+    second: npc_piggy__x1_chew_png_1354829433_38
+  - first:
+      213: -4053774851251376535
+    second: npc_piggy__x1_chew_png_1354829433_39
+  - first:
+      213: -4447508750663544367
+    second: npc_piggy__x1_chew_png_1354829433_40
+  - first:
+      213: 4666043739982672216
+    second: npc_piggy__x1_chew_png_1354829433_41
+  - first:
+      213: 135594910636015130
+    second: npc_piggy__x1_chew_png_1354829433_42
+  - first:
+      213: 8611956357900606197
+    second: npc_piggy__x1_chew_png_1354829433_43
+  - first:
+      213: 2494505330325505227
+    second: npc_piggy__x1_chew_png_1354829433_44
+  - first:
+      213: 1474723069021486960
+    second: npc_piggy__x1_chew_png_1354829433_45
+  - first:
+      213: 809816137058188557
+    second: npc_piggy__x1_chew_png_1354829433_46
+  - first:
+      213: 1090601127694956353
+    second: npc_piggy__x1_chew_png_1354829433_47
+  - first:
+      213: 5142057685796872950
+    second: npc_piggy__x1_chew_png_1354829433_48
+  - first:
+      213: -965580583515088122
+    second: npc_piggy__x1_chew_png_1354829433_49
+  - first:
+      213: -172413204844848425
+    second: npc_piggy__x1_chew_png_1354829433_50
+  - first:
+      213: 4921987984885676261
+    second: npc_piggy__x1_chew_png_1354829433_51
+  - first:
+      213: -8543326932263076994
+    second: npc_piggy__x1_chew_png_1354829433_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795581f6d018c620800000000000000
+      internalID: 2794502084144486775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628816597258feab0800000000000000
+      internalID: -4976612658164692954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08837472b47b262a0800000000000000
+      internalID: -6745627758438172544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa95c74e1a34f310800000000000000
+      internalID: 1437838082765593261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24cc9f92c4a4d080800000000000000
+      internalID: -9163518185983654870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8e91e52254c17f0800000000000000
+      internalID: -640561033083492112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a5f0cfb64deb090800000000000000
+      internalID: -8016736726417450380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f6ac912e50c63b0800000000000000
+      internalID: -5518028974782255264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd417c35d1f2c0a0800000000000000
+      internalID: -6862656984014828079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b054daf401d2be80800000000000000
+      internalID: -8164233355150995272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_10
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78dd27884d74e590800000000000000
+      internalID: -7645848516909213573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6391c7f7e1c1b0800000000000000
+      internalID: -5637970207200548292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cf385871456eda0800000000000000
+      internalID: -5915948600503567351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a722d1491dd928450800000000000000
+      internalID: 6089603169616994938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a265629aaae8d0a80800000000000000
+      internalID: -8498980058144811478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf44aaeec2045420800000000000000
+      internalID: 2617720371132256173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f3f5d16442dc80800000000000000
+      internalID: -8299495976298351155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e01f863ec398980800000000000000
+      internalID: -8536224671288193455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d3d58e3b65b3e0800000000000000
+      internalID: -2038605340037883635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6809c05a13cf4b10800000000000000
+      internalID: 1968006079976114287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_20
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc758f860dbdfef0800000000000000
+      internalID: -72694183092716363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d780602a041616510800000000000000
+      internalID: 1540619477761525885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a6b39ac4dc0c50800000000000000
+      internalID: 6632910317736599744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d3beaf95a571120800000000000000
+      internalID: 2384473870224276798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c75ed1a0ae57d10800000000000000
+      internalID: 2122860128547208279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb3c210211a372a0800000000000000
+      internalID: -6740867118542341142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20694ac114b30a10800000000000000
+      internalID: 1874539858417508394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fa7bd9415a139a0800000000000000
+      internalID: -6255036899476918447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8de5a774ffd88a0800000000000000
+      internalID: -6301099621160658714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_29
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66e6789db96f1c0800000000000000
+      internalID: -4470214221536270639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea7577cb8f8864d0800000000000000
+      internalID: -3141102909581329681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcfbba2a18006400800000000000000
+      internalID: 315260882395069651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_32
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315515aef6288470800000000000000
+      internalID: 8397004380365476152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e8c41b8b62f410800000000000000
+      internalID: 1509387070215873840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe023734b6fd1f0800000000000000
+      internalID: -1017977053323923593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e31a1812b87ed050800000000000000
+      internalID: 5827227674167874537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe88823e4b6d280800000000000000
+      internalID: -9018822316032200928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f28ae7b0362e00800000000000000
+      internalID: 1019555932117594334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bddfa006a9c18c80800000000000000
+      internalID: -8322148921590686282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eefb720491eb7c0800000000000000
+      internalID: -4053774851251376535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_40
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1124dea564742c0800000000000000
+      internalID: -4447508750663544367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_41
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8513a1c4f0e11c040800000000000000
+      internalID: 4666043739982672216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_42
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7fc15adab1e100800000000000000
+      internalID: 135594910636015130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_43
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa15ddeda0d38770800000000000000
+      internalID: 8611956357900606197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4ce58a1634e9220800000000000000
+      internalID: 2494505330325505227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f791f51d4477410800000000000000
+      internalID: 1474723069021486960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_46
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7bbe6c7b0d3b00800000000000000
+      internalID: 809816137058188557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147f5e782f7922f00800000000000000
+      internalID: 1090601127694956353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26d70b8324c5740800000000000000
+      internalID: 5142057685796872950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_49
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b919d33919992f0800000000000000
+      internalID: -965580583515088122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dad2aa8a177b9df0800000000000000
+      internalID: -172413204844848425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_51
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f9d39ef96e4440800000000000000
+      internalID: 4921987984885676261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_chew_png_1354829433_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b7e6a6b61007980800000000000000
+      internalID: -8543326932263076994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

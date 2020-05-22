@@ -1,0 +1,4916 @@
+fileFormatVersion: 2
+guid: 31006b687223baa48ba6c48c958749ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5999034597212026344
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_0
+  - first:
+      213: 8480002267391595965
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_1
+  - first:
+      213: -1829373488885749439
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_2
+  - first:
+      213: 4603338588730410989
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_3
+  - first:
+      213: -608922200873261915
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_4
+  - first:
+      213: -5336982671591612432
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_5
+  - first:
+      213: -6855834681624491135
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_6
+  - first:
+      213: 7097849223036443158
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_7
+  - first:
+      213: -7550198688622263361
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_8
+  - first:
+      213: -4727244419151168316
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_9
+  - first:
+      213: -3062357306351421834
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_10
+  - first:
+      213: -1477280328475870586
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_11
+  - first:
+      213: 5151802677554535811
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_12
+  - first:
+      213: -7837109584340923847
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_13
+  - first:
+      213: -7164614415283378798
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_14
+  - first:
+      213: -3255345778734712025
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_15
+  - first:
+      213: -6909711611135433173
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_16
+  - first:
+      213: 3314920116610547796
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_17
+  - first:
+      213: -7001902042000245180
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_18
+  - first:
+      213: -6914553940770314259
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_19
+  - first:
+      213: -8601600078602346958
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_20
+  - first:
+      213: -9054086261659707925
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_21
+  - first:
+      213: 7676535306325006634
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_22
+  - first:
+      213: -5702049886990808295
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_23
+  - first:
+      213: 3338818502662841500
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_24
+  - first:
+      213: 5045074516763139964
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_25
+  - first:
+      213: 7207590306981684862
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_26
+  - first:
+      213: 8981637485780492841
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_27
+  - first:
+      213: 7343298573350042726
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_28
+  - first:
+      213: -4474569185326762862
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_29
+  - first:
+      213: 7928485251380299809
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_30
+  - first:
+      213: 6711222000074422381
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_31
+  - first:
+      213: 3561143255665543336
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_32
+  - first:
+      213: -3429310341167443062
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_33
+  - first:
+      213: -4346291404492722082
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_34
+  - first:
+      213: -2887905696004417512
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_35
+  - first:
+      213: 2342815848403634763
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_36
+  - first:
+      213: 4443271876633575296
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_37
+  - first:
+      213: 6166556119462480720
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_38
+  - first:
+      213: 1259134269590254228
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_39
+  - first:
+      213: 4745155372827506582
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_40
+  - first:
+      213: 970721582293401608
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_41
+  - first:
+      213: 3752871312947961685
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_42
+  - first:
+      213: 7566544126249197301
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_43
+  - first:
+      213: -3794839598374929593
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_44
+  - first:
+      213: -6155001286994134951
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_45
+  - first:
+      213: 7392526935733565482
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_46
+  - first:
+      213: 6085943889349712283
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_47
+  - first:
+      213: -8728734254051778529
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_48
+  - first:
+      213: -5299921077838599984
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_49
+  - first:
+      213: -4440908234491202733
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_50
+  - first:
+      213: -5148249515690687412
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_51
+  - first:
+      213: -1579603712233419639
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_52
+  - first:
+      213: -41209632633878661
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_53
+  - first:
+      213: 4368278348061184186
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_54
+  - first:
+      213: -6055532787810879519
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_55
+  - first:
+      213: 2851781843424305066
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_56
+  - first:
+      213: 8093237848240580722
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_57
+  - first:
+      213: -6766335746054574367
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_58
+  - first:
+      213: -8067425978759533534
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_59
+  - first:
+      213: -2895599086475023418
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_60
+  - first:
+      213: -7285928497762815805
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_61
+  - first:
+      213: 5177807680339918506
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_62
+  - first:
+      213: -1783385046849141498
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_63
+  - first:
+      213: 8650988575581120960
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_64
+  - first:
+      213: 7847370191922399932
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_65
+  - first:
+      213: 1213652149500761210
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_66
+  - first:
+      213: -8932412157262643840
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_67
+  - first:
+      213: -1696406368503871830
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_68
+  - first:
+      213: 5362622396446273263
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_69
+  - first:
+      213: 8338615608818089832
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_70
+  - first:
+      213: -5000377426143521880
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_71
+  - first:
+      213: 1662894374056804469
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_72
+  - first:
+      213: 2147693714263126464
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_73
+  - first:
+      213: 4068421607661606572
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_74
+  - first:
+      213: 8792084332424039574
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_75
+  - first:
+      213: -5393428080716708242
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_76
+  - first:
+      213: -3109475570010208230
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_77
+  - first:
+      213: 6154745071308024530
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_78
+  - first:
+      213: -8689307297336254136
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_79
+  - first:
+      213: -3425523302952849433
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_80
+  - first:
+      213: 8682877022548630530
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_81
+  - first:
+      213: -5626210342622194106
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_82
+  - first:
+      213: 6043063136173872996
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_83
+  - first:
+      213: -4843236266351383541
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_84
+  - first:
+      213: -775140355607894468
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_85
+  - first:
+      213: 8846532299740081524
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_86
+  - first:
+      213: 7278845923097286683
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_87
+  - first:
+      213: -6801032669963155628
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_88
+  - first:
+      213: -4137577829967617371
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_89
+  - first:
+      213: -461702226531865470
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_90
+  - first:
+      213: -903798602644072649
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_91
+  - first:
+      213: -3211925992370288316
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_92
+  - first:
+      213: 3988265628355053305
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_93
+  - first:
+      213: -8238650640511778635
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_94
+  - first:
+      213: -1520593895181295331
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_95
+  - first:
+      213: 8456918938612366776
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_96
+  - first:
+      213: 7719813890374958769
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_97
+  - first:
+      213: -6212653427969461468
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_98
+  - first:
+      213: -1582498164347578914
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_99
+  - first:
+      213: 1455618830483865266
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_100
+  - first:
+      213: 65774450172924149
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_101
+  - first:
+      213: -32900446751920041
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_102
+  - first:
+      213: -1567235292120542493
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_103
+  - first:
+      213: -7327354073782106204
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_104
+  - first:
+      213: -3167892718143120876
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_105
+  - first:
+      213: -2356867906378745979
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_106
+  - first:
+      213: 6088631193781782414
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_107
+  - first:
+      213: -1628226620955485560
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_108
+  - first:
+      213: 5503547145128529380
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_109
+  - first:
+      213: -3087073654707023596
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_110
+  - first:
+      213: 1861492572723570414
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_111
+  - first:
+      213: -3824896148252791713
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_112
+  - first:
+      213: 4937498740634207024
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_113
+  - first:
+      213: 4316906508337275821
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_114
+  - first:
+      213: 4490535835857959917
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_115
+  - first:
+      213: -8065516157738236721
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_116
+  - first:
+      213: -564450352828960123
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_117
+  - first:
+      213: 6794032206907500304
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_118
+  - first:
+      213: -5620866705829147215
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_119
+  - first:
+      213: -6731818785398930153
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_120
+  - first:
+      213: 7614164113011374371
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_121
+  - first:
+      213: -3488424659064020173
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_122
+  - first:
+      213: -1074425322995711319
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_123
+  - first:
+      213: -331208502375928684
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_124
+  - first:
+      213: -1984250106688593884
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_125
+  - first:
+      213: 1881451539673758363
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_126
+  - first:
+      213: -3006766287570525286
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_127
+  - first:
+      213: 67261645425572657
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_128
+  - first:
+      213: -7023491901667518048
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_129
+  - first:
+      213: -4116221259175717186
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_130
+  - first:
+      213: 796043720418322682
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_131
+  - first:
+      213: -6857640093211669677
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_132
+  - first:
+      213: 5888833845770000902
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_133
+  - first:
+      213: -6708596748499537511
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_134
+  - first:
+      213: 6346991634691171119
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_135
+  - first:
+      213: -503991880603430215
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_136
+  - first:
+      213: 7071467877570341557
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_137
+  - first:
+      213: 7486455458886940874
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_138
+  - first:
+      213: 1263922973362022225
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_139
+  - first:
+      213: 3423613082510954422
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_140
+  - first:
+      213: -5886427463915671929
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_141
+  - first:
+      213: -8573093732774882785
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_142
+  - first:
+      213: -6488169968305795440
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_143
+  - first:
+      213: -9172527575283751760
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_144
+  - first:
+      213: -4518164010731555525
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_145
+  - first:
+      213: -5287850976813376829
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_146
+  - first:
+      213: 9202433169170829924
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_147
+  - first:
+      213: 3635874207583137236
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_148
+  - first:
+      213: -1459299852619394370
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_149
+  - first:
+      213: -897932251923554663
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_150
+  - first:
+      213: 7200747599104497165
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_151
+  - first:
+      213: 7490400715690855977
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_152
+  - first:
+      213: -6223570860861294006
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_153
+  - first:
+      213: 7466638085239706974
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_154
+  - first:
+      213: -2323067002963177979
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_155
+  - first:
+      213: 4268226248673179661
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_156
+  - first:
+      213: 3363696196259178855
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_157
+  - first:
+      213: -5695490263761198229
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_158
+  - first:
+      213: -5642971724541488643
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_159
+  - first:
+      213: -2788255234611048282
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_160
+  - first:
+      213: -1085842329346943928
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_161
+  - first:
+      213: -3381700774852607919
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_162
+  - first:
+      213: 475042267642688862
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_163
+  - first:
+      213: -3367839615759937825
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_164
+  - first:
+      213: -2519599158365109686
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_165
+  - first:
+      213: 8065836415725860708
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_166
+  - first:
+      213: 6037692870669940350
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_167
+  - first:
+      213: -2490415030671831486
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_168
+  - first:
+      213: 6181388344859925809
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_169
+  - first:
+      213: -1936305446420836940
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_170
+  - first:
+      213: 3839848957964489634
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_171
+  - first:
+      213: 9046987445846014818
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_172
+  - first:
+      213: -7523898774222327852
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_173
+  - first:
+      213: 1428311306823887961
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_174
+  - first:
+      213: 78216340884655417
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_175
+  - first:
+      213: -5877210195063262434
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_176
+  - first:
+      213: 2454515056383925034
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_177
+  - first:
+      213: -3650017463065471112
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_178
+  - first:
+      213: 8370078031493293731
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_179
+  - first:
+      213: 9019347170194386181
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_180
+  - first:
+      213: -1163618668033323571
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_181
+  - first:
+      213: 6864031265224748502
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_182
+  - first:
+      213: -3941228232619909009
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_183
+  - first:
+      213: 4398145994146180274
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_184
+  - first:
+      213: -1585877324462832852
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_185
+  - first:
+      213: 2318171327017433251
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_186
+  - first:
+      213: 3641797870717023519
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_187
+  - first:
+      213: -1197891208171207699
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_188
+  - first:
+      213: -4376221611701947097
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_189
+  - first:
+      213: 409917952763073727
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_190
+  - first:
+      213: 8831083121891300865
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_191
+  - first:
+      213: -4894954436997370591
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_192
+  - first:
+      213: -4416798338911936508
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_193
+  - first:
+      213: 8007365870865025021
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_194
+  - first:
+      213: 4958084895037787715
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_195
+  - first:
+      213: 7165546626846012202
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_196
+  - first:
+      213: 5912129895798726554
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_197
+  - first:
+      213: 170770047373491344
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_198
+  - first:
+      213: -2683780185173307865
+    second: npc_juju_boss__x1_shaking_fists_png_1354831821_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f9129e2ad04350800000000000000
+      internalID: 5999034597212026344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5126a12250fa570800000000000000
+      internalID: 8480002267391595965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a2791182cc96e0800000000000000
+      internalID: -1829373488885749439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7cf129e0852ef30800000000000000
+      internalID: 4603338588730410989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a9190c7cac87f0800000000000000
+      internalID: -608922200873261915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffdd57698a3fe5b0800000000000000
+      internalID: -5336982671591612432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b08fa4eae2bd0a0800000000000000
+      internalID: -6855834681624491135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9e582340a08260800000000000000
+      internalID: 7097849223036443158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2508
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3cc0d9b4e483790800000000000000
+      internalID: -7550198688622263361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccfb0e2f34756eb0800000000000000
+      internalID: -4727244419151168316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f99341425085d0800000000000000
+      internalID: -3062357306351421834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af5834e55af7be0800000000000000
+      internalID: -1477280328475870586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5b846d31ee7740800000000000000
+      internalID: 5151802677554535811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93acc871b5efc3390800000000000000
+      internalID: -7837109584340923847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2952468262d229c90800000000000000
+      internalID: -7164614415283378798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b33750340b2d2d0800000000000000
+      internalID: -3255345778734712025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2661ed16e5cb10a0800000000000000
+      internalID: -6909711611135433173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2394
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4504e596846f00e20800000000000000
+      internalID: 3314920116610547796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e3e72c03f34de90800000000000000
+      internalID: -7001902042000245180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ab1463d19a00a0800000000000000
+      internalID: -6914553940770314259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e5fee3d4af0a880800000000000000
+      internalID: -8601600078602346958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be55700048c695280800000000000000
+      internalID: -9054086261659707925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a291f376038888a60800000000000000
+      internalID: 7676535306325006634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b4b5aa6df3ed0b0800000000000000
+      internalID: -5702049886990808295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9468b40dbdd55e20800000000000000
+      internalID: 3338818502662841500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fda050b84b30640800000000000000
+      internalID: 5045074516763139964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2280
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76213e5231860460800000000000000
+      internalID: 7207590306981684862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9226741e4bf25ac70800000000000000
+      internalID: 8981637485780492841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c79206523a8e560800000000000000
+      internalID: 7343298573350042726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29470b1880327e1c0800000000000000
+      internalID: -4474569185326762862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12842774453a70e60800000000000000
+      internalID: 7928485251380299809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68f83bf9dc032d50800000000000000
+      internalID: 6711222000074422381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8093c5ce8bb6130800000000000000
+      internalID: 3561143255665543336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83142af964a860d0800000000000000
+      internalID: -3429310341167443062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_34
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b0e8cefedea3c0800000000000000
+      internalID: -4346291404492722082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2166
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81854dcf1191ce7d0800000000000000
+      internalID: -2887905696004417512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a0142f99a538020800000000000000
+      internalID: 2342815848403634763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f3a37fa3ca9ad30800000000000000
+      internalID: 4443271876633575296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b821c6e12049550800000000000000
+      internalID: 6166556119462480720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b27f62f7597110800000000000000
+      internalID: 1259134269590254228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6977b61bbad2ad140800000000000000
+      internalID: 4745155372827506582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8004760d222b87d00800000000000000
+      internalID: 970721582293401608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f54085390e41430800000000000000
+      internalID: 3752871312947961685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fed6662bc3c10960800000000000000
+      internalID: 7566544126249197301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2052
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb64fbd75065bc0800000000000000
+      internalID: -3794839598374929593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95874a8a0fa059aa0800000000000000
+      internalID: -6155001286994134951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f7eca418879660800000000000000
+      internalID: 7392526935733565482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9916aff8bd957450800000000000000
+      internalID: 6085943889349712283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a578517e4dd680800000000000000
+      internalID: -8728734254051778529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d823d12cd5e276b0800000000000000
+      internalID: -5299921077838599984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3537b0b5d79be52c0800000000000000
+      internalID: -4440908234491202733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c440e22975ebd88b0800000000000000
+      internalID: -5148249515690687412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c4076face141ae0800000000000000
+      internalID: -1579603712233419639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1938
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b778885be089d6ff0800000000000000
+      internalID: -41209632633878661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09730730e3f9c30800000000000000
+      internalID: 4368278348061184186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e73dc8530d66fba0800000000000000
+      internalID: -6055532787810879519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafd63a2a70939720800000000000000
+      internalID: 2851781843424305066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_57
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278602371f4f05070800000000000000
+      internalID: 8093237848240580722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eea3611d752912a0800000000000000
+      internalID: -6766335746054574367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_59
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca74cb0deba0090800000000000000
+      internalID: -8067425978759533534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_60
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe5bee8f3c0d7d0800000000000000
+      internalID: -2895599086475023418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_61
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0b3ff32ae23ea90800000000000000
+      internalID: -7285928497762815805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1824
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae33fde6a44bd740800000000000000
+      internalID: 5177807680339918506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60540d8afb42047e0800000000000000
+      internalID: -1783385046849141498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9a97b464c7e0870800000000000000
+      internalID: 8650988575581120960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0686cc9577ec60800000000000000
+      internalID: 7847370191922399932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_66
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74d1e32332c7d010800000000000000
+      internalID: 1213652149500761210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dbafa0872b90480800000000000000
+      internalID: -8932412157262643840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6cd9255672578e0800000000000000
+      internalID: -1696406368503871830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_69
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeebbc38acdb6a40800000000000000
+      internalID: 5362622396446273263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_70
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f312267b6b8b370800000000000000
+      internalID: 8338615608818089832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1710
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a355db59371b9ab0800000000000000
+      internalID: -5000377426143521880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c6a07f99c31710800000000000000
+      internalID: 1662894374056804469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c13efcdd042ecd10800000000000000
+      internalID: 2147693714263126464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6913195efe57830800000000000000
+      internalID: 4068421607661606572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_75
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c896d2e12c30a70800000000000000
+      internalID: 8792084332424039574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_76
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6683477cb1b625b0800000000000000
+      internalID: -5393428080716708242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_77
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1849cb917ce8d4d0800000000000000
+      internalID: -3109475570010208230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_78
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa66a780c0a6550800000000000000
+      internalID: 6154745071308024530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_79
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841201e0d01696780800000000000000
+      internalID: -8689307297336254136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1596
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2ca584b81670d0800000000000000
+      internalID: -3425523302952849433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c996de5a6cf7870800000000000000
+      internalID: 8682877022548630530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6461068908fabe1b0800000000000000
+      internalID: -5626210342622194106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467d6e2a7e54dd350800000000000000
+      internalID: 6043063136173872996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c26dcb64e59ccb0800000000000000
+      internalID: -4843236266351383541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ebe414f52e35f0800000000000000
+      internalID: -775140355607894468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_86
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47de604714235ca70800000000000000
+      internalID: 8846532299740081524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_87
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1893055dc7a30560800000000000000
+      internalID: 7278845923097286683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_88
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570501f1d0ed91a0800000000000000
+      internalID: -6801032669963155628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_89
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1482
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2af3ea2ee5496c0800000000000000
+      internalID: -4137577829967617371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28caf8b6544b799f0800000000000000
+      internalID: -461702226531865470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737d7ec95ff0573f0800000000000000
+      internalID: -903798602644072649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449cce3d352fc63d0800000000000000
+      internalID: -3211925992370288316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6c000557a295730800000000000000
+      internalID: 3988265628355053305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b040c784ee6aad80800000000000000
+      internalID: -8238650640511778635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_95
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d116716a8e3c5eae0800000000000000
+      internalID: -1520593895181295331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_96
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd734ec7f20d5570800000000000000
+      internalID: 8456918938612366776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_97
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1befcebf4d9422b60800000000000000
+      internalID: 7719813890374958769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1368
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42374419f9838c9a0800000000000000
+      internalID: -6212653427969461468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5da50dd46d90ae0800000000000000
+      internalID: -1582498164347578914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_100
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3c573d95633410800000000000000
+      internalID: 1455618830483865266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09ad1938da9e000800000000000000
+      internalID: 65774450172924149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_102
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750766ec73d1b8ff0800000000000000
+      internalID: -32900446751920041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e213bd2ecf004ae0800000000000000
+      internalID: -1567235292120542493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_104
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c4b8ba42005a90800000000000000
+      internalID: -7327354073782106204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_105
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a58886b526904d0800000000000000
+      internalID: -3167892718143120876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_106
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587b6c95029ba4fd0800000000000000
+      internalID: -2356867906378745979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_107
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1254
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87c9b1dfc92f7450800000000000000
+      internalID: 6088631193781782414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a1d14d3806769e0800000000000000
+      internalID: -1628226620955485560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_109
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed400e28f6806c40800000000000000
+      internalID: 5503547145128529380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41198b7fdd28825d0800000000000000
+      internalID: -3087073654707023596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_111
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6673dd1a955d910800000000000000
+      internalID: 1861492572723570414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ce1a4e73d3beac0800000000000000
+      internalID: -3824896148252791713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033c072d1f4858440800000000000000
+      internalID: 4937498740634207024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_114
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e30ee89bb8eb30800000000000000
+      internalID: 4316906508337275821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_115
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb9730d86915e30800000000000000
+      internalID: 4490535835857959917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_116
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1140
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c6d799c7811090800000000000000
+      internalID: -8065516157738236721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582394a056baa28f0800000000000000
+      internalID: -564450352828960123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_118
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017e84dbb40494e50800000000000000
+      internalID: 6794032206907500304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdcb3df28baef1b0800000000000000
+      internalID: -5620866705829147215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_120
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715cefb3b76c392a0800000000000000
+      internalID: -6731818785398930153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_121
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f1915be1faa960800000000000000
+      internalID: 7614164113011374371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_122
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333a6ca4140a69fc0800000000000000
+      internalID: -3488424659064020173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_123
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2082d7cdfd611f0800000000000000
+      internalID: -1074425322995711319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_124
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2b453f9f476bf0800000000000000
+      internalID: -331208502375928684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1026
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420ab4d7a078674e0800000000000000
+      internalID: -1984250106688593884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9abd5cf4324c1a10800000000000000
+      internalID: 1881451539673758363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_127
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a932db2fdf1d546d0800000000000000
+      internalID: -3006766287570525286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b79923c16fee000800000000000000
+      internalID: 67261645425572657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_129
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a95646d35b878e90800000000000000
+      internalID: -7023491901667518048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_130
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb69bedc29e30e6c0800000000000000
+      internalID: -4116221259175717186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_131
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e63dcb8d1c0b00800000000000000
+      internalID: 796043720418322682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_132
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b44a62ba4c4d0a0800000000000000
+      internalID: -6857640093211669677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_133
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a1b6eae2759b150800000000000000
+      internalID: 5888833845770000902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_134
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 912
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99138580dc646e2a0800000000000000
+      internalID: -6708596748499537511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23a422934b051850800000000000000
+      internalID: 6346991634691171119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_136
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b293fa0e067109f0800000000000000
+      internalID: -503991880603430215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba6a238196e22260800000000000000
+      internalID: 7071467877570341557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87dbd239b35e760800000000000000
+      internalID: 7486455458886940874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157e2ba6f3b5a8110800000000000000
+      internalID: 1263922973362022225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_140
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf027f95fd138f20800000000000000
+      internalID: 3423613082510954422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee331c8653f4ea0800000000000000
+      internalID: -5886427463915671929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_142
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1253d71ca0460980800000000000000
+      internalID: -8573093732774882785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_143
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 798
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e86c42ac365f5a0800000000000000
+      internalID: -6488169968305795440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4acb6b4c2a4b080800000000000000
+      internalID: -9172527575283751760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_145
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35346f35c14c41c0800000000000000
+      internalID: -4518164010731555525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca16d58d87cd96b0800000000000000
+      internalID: -5287850976813376829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_147
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46213b5f53c95bf70800000000000000
+      internalID: 9202433169170829924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd6ffef358357230800000000000000
+      internalID: 3635874207583137236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_149
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb257d704868fbbe0800000000000000
+      internalID: -1459299852619394370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_150
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99edab3df57e983f0800000000000000
+      internalID: -897932251923554663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_151
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ded94ac13ee360800000000000000
+      internalID: 7200747599104497165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_152
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 684
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ec51cd3cf33f760800000000000000
+      internalID: 7490400715690855977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af3e3a64f61a9a0800000000000000
+      internalID: -6223570860861294006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_154
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e559d1157c3de9760800000000000000
+      internalID: 7466638085239706974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_155
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ec2f27edec2cfd0800000000000000
+      internalID: -2323067002963177979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_156
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08b92db829cb3b30800000000000000
+      internalID: 4268226248673179661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7696c5e6edf3eae20800000000000000
+      internalID: 3363696196259178855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_158
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6361d6f7cd85f0b0800000000000000
+      internalID: -5695490263761198229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_159
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df191214d1320b1b0800000000000000
+      internalID: -5642971724541488643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_160
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a092ed03a02e49d0800000000000000
+      internalID: -2788255234611048282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_161
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 570
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844513d87205ee0f0800000000000000
+      internalID: -1085842329346943928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1504f32ff09c111d0800000000000000
+      internalID: -3381700774852607919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e557320fc60b79600800000000000000
+      internalID: 475042267642688862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_164
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde042a86b70341d0800000000000000
+      internalID: -3367839615759937825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_165
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4246453ae5980dd0800000000000000
+      internalID: -2519599158365109686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ffb74c7b9fef60800000000000000
+      internalID: 8065836415725860708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_167
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76b0334da13ac350800000000000000
+      internalID: 6037692870669940350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_168
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e038179b4407dd0800000000000000
+      internalID: -2490415030671831486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_169
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d9d1203f3b8c550800000000000000
+      internalID: 6181388344859925809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_170
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 456
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd8e69947cd025e0800000000000000
+      internalID: -1936305446420836940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a390aa6842e94530800000000000000
+      internalID: 3839848957964489634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bf115262b5d8d70800000000000000
+      internalID: 9046987445846014818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_173
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df2b7c9dedb59790800000000000000
+      internalID: -7523898774222327852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_174
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c69e7e09162d310800000000000000
+      internalID: 1428311306823887961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_175
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d8f0ef851e51100800000000000000
+      internalID: 78216340884655417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_176
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1333f46774ff6ea0800000000000000
+      internalID: -5877210195063262434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b9c9f6070301220800000000000000
+      internalID: 2454515056383925034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_178
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877920ab478885dc0800000000000000
+      internalID: -3650017463065471112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_179
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 342
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a665718f9d782470800000000000000
+      internalID: 8370078031493293731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6c59f6782b2d70800000000000000
+      internalID: 9019347170194386181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_181
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4cdd8cfef9dfe0800000000000000
+      internalID: -1163618668033323571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_182
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd65ea8110f14f50800000000000000
+      internalID: 6864031265224748502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_183
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6023ffcdc1fd49c0800000000000000
+      internalID: -3941228232619909009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_184
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bce363ba7a590d30800000000000000
+      internalID: 4398145994146180274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_185
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23cb0ac9f4ddf9e0800000000000000
+      internalID: -1585877324462832852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_186
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8be5b2a8ccb2020800000000000000
+      internalID: 2318171327017433251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_187
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15bcdb4ed34a8230800000000000000
+      internalID: 3641797870717023519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_188
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 228
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de34469fa4c306fe0800000000000000
+      internalID: -1197891208171207699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253e1061a98443c0800000000000000
+      internalID: -4376221611701947097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_190
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49f79c43250b500800000000000000
+      internalID: 409917952763073727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106574e6f4f4e8a70800000000000000
+      internalID: 8831083121891300865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_192
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dac07cfd0a11cb0800000000000000
+      internalID: -4894954436997370591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_193
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4006e9cdf4164b2c0800000000000000
+      internalID: -4416798338911936508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_194
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df70f7fa5d0ef1f60800000000000000
+      internalID: 8007365870865025021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_195
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e05f661f7aec440800000000000000
+      internalID: 4958084895037787715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_196
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b7a241b2217360800000000000000
+      internalID: 7165546626846012202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_197
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 114
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fdc0101da1c0250800000000000000
+      internalID: 5912129895798726554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c39fb0472be5200800000000000000
+      internalID: 170770047373491344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_boss__x1_shaking_fists_png_1354831821_199
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e438f042c41cad0800000000000000
+      internalID: -2683780185173307865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
