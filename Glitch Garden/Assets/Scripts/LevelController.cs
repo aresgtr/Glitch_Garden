@@ -8,13 +8,26 @@ public class LevelController : MonoBehaviour
     [SerializeField] private float waitToLoad = 4f;
     [SerializeField] private GameObject winLabel;
     [SerializeField] private GameObject loseLabel;
+    [SerializeField] private GameObject levelIntroCanvas;
     private int numberOfAttackers = 0;
     private bool levelTimerFinished = false;
+    private bool gameStart;
+    private bool cr_running;
 
     private void Start()
     {
         winLabel.SetActive(false);
         loseLabel.SetActive(false);
+        gameStart = false;
+        levelIntroCanvas.SetActive(true);
+        Time.timeScale = 0;
+    }
+
+    public void StartTheGame()
+    {
+        gameStart = true;
+        levelIntroCanvas.SetActive(false);
+        Time.timeScale = 1;
     }
 
     public void AttackerSpawned()

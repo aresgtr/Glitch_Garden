@@ -48,6 +48,7 @@ MonoBehaviour:
   waitToLoad: 4
   winLabel: {fileID: 0}
   loseLabel: {fileID: 0}
+  levelIntroCanvas: {fileID: 0}
 --- !u!114 &8816161388378191249
 MonoBehaviour:
   m_ObjectHideFlags: 0
