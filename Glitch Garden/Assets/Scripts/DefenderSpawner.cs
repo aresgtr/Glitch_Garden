@@ -41,6 +41,7 @@ public class DefenderSpawner : MonoBehaviour
         //    if we have enough stars
         if (StarDisplay.HaveEnoughStars(defenderCost))
         {
+            GetComponent<AudioSource>().Play();
             SpawnDefender(gridPos);
             StarDisplay.SpendStars(defenderCost);
         }

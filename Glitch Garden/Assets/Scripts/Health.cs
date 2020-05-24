@@ -14,6 +14,8 @@ public class Health : MonoBehaviour
         if (health <= 0)
         {
             TriggerDeathVFX();
+            
+            FindObjectOfType<AudioSource>().Play();
             Destroy(gameObject);
         }
     }
