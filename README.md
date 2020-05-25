@@ -4,7 +4,7 @@
 
 This project is based on Udemy's course `Complete C# Unity Developer 2D: Learn to Code Making Games`.
 
-![Glitch Garden Gif](Unity_WebGL_Player _ Glitch_Garden.gif)
+![Glitch Garden Gif](Unity_WebGL_Player_Glitch_Garden.gif)
 
 ### Assets
 
