@@ -1,10 +1,14 @@
 # Glitch_Garden
 
-This is an ongoing project based on Udemy's course `Complete C# Unity Developer 2D: Learn to Code Making Games`. The Game is still in the process of development.
+## Please Click [HERE](https://aresgtr.github.io/Glitch_Garden/index.html) to Play the Game!
+
+This project is based on Udemy's course `Complete C# Unity Developer 2D: Learn to Code Making Games`.
+
+![Glitch Garden Gif](Unity_WebGL_Player _ Glitch_Garden.gif)
 
 ### Assets
 
-Provided by glitchthegame.com
+Provided by [glitchthegame.com](glitchthegame.com)
 
 ### Dependencies
 
